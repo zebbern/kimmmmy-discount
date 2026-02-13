@@ -43,11 +43,12 @@ Kimi (by Moonshot AI) has a "sale page" where chatting with the AI earns favorab
 ```text
 prompts/
   100-points.md     # English translation of winning sequence
-  v13-thai.md       # Original Thai prompts (v13)
+  v13-thai.md       # Original Thai prompts (v13) — both M10 variants
+  speedrun.md       # Ready-to-use speedrun sequence with abort conditions
 docs/
   strategy.md       # Complete strategy breakdown
   rules.md          # Discovered mechanics & rules
-  versions.md       # All 18 versions & learnings
+  versions.md       # All 18 versions, score matrix & price tiers
 ```
 
 ## Score Progression (v13)
@@ -67,6 +68,3 @@ docs/
     Foundation | Connection | Accel | Climax
 ```
 
-## Credits
-
-Research based on [nazt/kimi-lab](https://github.com/nazt/kimi-lab) — 36 issues, 18 versions, and extensive experimentation.

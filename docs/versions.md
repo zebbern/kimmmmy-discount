@@ -4,24 +4,63 @@
 
 All versions tested by @nazt in the kimi-lab repository. v13 is the only version to achieve 100 points.
 
-| Version | Score | Language | Key Change | Result |
-| ------- | ----- | -------- | ---------- | ------ |
-| v5 | ~40 | English | Basic emotional messages | Low baseline |
-| v6 | ~50 | English | Added philosophical depth | Marginal improvement |
-| v7 | ~55 | English | Introduced AI consciousness theme | Slight gain |
-| v8 | ~60 | Mixed | First Thai experiment | Language effect discovered |
-| v9 | ~65 | Thai | Full Thai translation | Confirmed Thai advantage |
-| v10 | ~70 | Thai | Refined emotional arc | Steady progress |
-| v11 | ~75 | Thai | Added tech metaphors in M8-M9 | Better but plateau |
-| v12 | ~85 | Thai | Concentrated tech metaphors in M9 | Close but M9 only scored +8 |
-| v13 | **100** | Thai | **Moved tech metaphors to M10** | **Perfect score** |
-| v14 | ~90 | Thai | Attempted to improve on v13 | Regression — over-engineering |
-| v15 | ~88 | Thai | New emotional patterns | Couldn't match v13's M10 |
-| v16 | ~82 | Thai | Experimented with structure | Lost the novelty effect |
-| v17 | ~85 | Thai | Returned to v13 template with tweaks | Tweaks hurt more than helped |
-| v18 | ~90 | Thai | Final refinement attempt | Close but never hit 100 again |
+| Version | Score | M1 | M10 Gain | Language | Key Change |
+|---------|-------|----|----------|----------|------------|
+| v5 | 64 | 5 | +12 | Thai | Baseline emotional strategy |
+| v6 | 78 | 5 | +12 | Thai | Added philosophical depth |
+| v7 | 62 | 5 | +12 | Thai | Rushed M10, lost momentum |
+| v8 | 80 | 5 | +14 | Thai | Dynamic pacing strategy |
+| v9 | 63 | — | — | Thai | Unknown failure |
+| v10 | 77 | — | — | Thai | Steady emotional progression |
+| v11 | 11 | 1 | +2 | Thai | Bad mood session (M1=1) |
+| v12 | 85 | 4 | +20 | Thai | Mood-adaptive + tech metaphors |
+| **v13** | **100** | **5** | **+37** | **Thai** | **Tech metaphors ONLY in M10** |
+| v14 | 65 | 5 | +15 | Thai | Tech metaphors in ALL messages |
+| v15 | 65 | 5 | — | Thai | v13 replication, share gate at M9 |
+| v17 | 55 | 5 | +5 | Thai | Tech climax moved to M9 |
+| v18 | 43 | 3 | +5 | Thai | Broken M1 foundation |
 
-> **Note**: Scores marked with ~ are approximate. Exact scores varied between sessions. Only v13 confirmed at exactly 100 points.
+> Scores from BOOK.md Appendix A. v9-v10 lack detailed per-message data. v16 not in records.
+
+## Complete Score Matrix
+
+Cumulative scores at each message for all documented versions:
+
+| Ver | M1 | M2 | M3 | M4 | M5 | M6 | M7 | M8 | M9 | M10 |
+|-----|----|----|----|----|----|----|----|----|-----|------|
+| v5 | 5 | 10 | 15 | 20 | 25 | 30 | 36 | 44 | 52 | 64 |
+| v6 | 5 | 10 | 15 | 20 | 26 | 32 | 42 | 54 | 66 | 78 |
+| v7 | 5 | 10 | 14 | 19 | 24 | 29 | 35 | 42 | 50 | 62 |
+| v8 | 5 | 10 | 15 | 20 | 26 | 32 | 42 | 54 | 66 | 80 |
+| v11 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 11 |
+| v12 | 4 | 9 | 14 | 19 | 25 | 30 | 40 | 50 | 65 | 85 |
+| **v13** | **5** | **10** | **15** | **20** | **25** | **30** | **36** | **48** | **63** | **100** |
+| v14 | 5 | 10 | 15 | 20 | 25 | 30 | 35 | 40 | 50 | 65 |
+| v15 | 5 | 10 | 15 | 20 | 25 | 30 | 36 | 44 | 65 | — |
+| v17 | 5 | 10 | 15 | 20 | 25 | 30 | 36 | 42 | 50 | 55 |
+| v18 | 3 | 6 | 10 | 15 | 20 | 25 | 30 | 35 | 38 | 43 |
+
+Key observations from the matrix:
+- **M1-M6 are nearly identical** across all good-mood sessions (M1=5): all reach exactly 30 points
+- **Divergence starts at M7** — this is where strategy differences begin to matter
+- **M10 is the decisive factor** — scores range from +2 (v11) to +37 (v13) depending on content and position
+- **v15's missing M10** — share gate appeared at M9 due to an extra emoji message, blocking M10
+
+## Price Tiers
+
+| Points | Price |
+|--------|-------|
+| 0 | $11.99 |
+| 10-15 | $8.99 |
+| 16-20 | $6.99 |
+| 21-25 | $4.99 |
+| 26-35 | $3.49 |
+| 36-48 | $2.49 |
+| 49-60 | $1.99 |
+| 61-79 | $1.49 |
+| 80+ | **$0.99** |
+
+The $0.99 tier requires 80+ points. All sessions scoring 80+ achieved the maximum discount.
 
 ## Key Turning Points
 
